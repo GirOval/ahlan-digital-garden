@@ -1,0 +1,179 @@
+---
+{"dg-publish":true,"permalink":"/materi-teknis/shot-list/","created":"2025-10-13T03:02:53.050-07:00","updated":"2025-10-15T02:00:42.000-07:00"}
+---
+
+Materi ini diambil dari Playlist StudioBinder  [Shot List](https://youtube.com/playlist?list=PLEzQZpmbzckV0_a2QCO2qF9Yfe-LKSDha&si=Ujo1XcvfgHAa1Sox)
+Untuk referensi shotnya, bisa cek di website [Shot.cafe](https://shot.cafe/) dan [Evan E. Richards](https://www.evanerichards.com/index/)
+>[!info] Semua elemen(atau bab) di sini saling berkesinambungan untuk menciptakan komposisi film.
+# **[[Materi Teknis/Fundamental Shot\|Fundamental Shot]]**
+- Establishing Shot
+- Master Shot
+- Wide/Long Shot (WS/LS)
+- Full Shot (FS)
+- Cowboy Shot
+- Medium Shot (MS)
+- Medium CloseUp Shot (MCU)
+- CloseUp Shot (CU)
+- Extreme CloseUp Shot (ECU)
+# **[[Materi Teknis/Framing\|Framing]]**
+- Singles
+	- Clean Single
+	- Dirty Single
+- Two Shot
+- Three Shot
+- Crowd Shot
+- Over-the-Shoulder (OTS) Shot
+- Point of View (POV) Shot
+- Insert Shot
+#  **[[Materi Teknis/Angle Type\|Angle Type]]**
+- Low Angle Shot
+- High Angle Shot
+- Aerial Shot
+- Overhead Shot (Bird's-Eye View atau God's Eye View)
+- Dutch Angle
+- Eye Level Shot
+- Shoulder Level Shot
+- Hip Level Shot
+- Knee Level Shot
+- Ground-level Shot
+# **[[Materi Teknis/Focus Type\|Focus Type]]**
+- Deep Focus
+- Shallow Focus
+- Soft Focus
+- Rack Focus
+- Split Diopter Shot
+- Tilt Shift Lens (Swing Shift)
+# [[Materi Teknis/Camera Gear\|Camera Gear]]
+- Handheld
+- Tripod
+- Pedestal
+- Crane & Jib
+- Overhead Rigs
+- Dolly, Slider, & Cable Cam
+- Stabilizer
+	- Steadycam
+	- Gimbal
+- Snorricam
+- Vehicle Mounts
+- Drone
+- Motion Control
+- Underwater Housing
+#  **[[Materi Teknis/Camera Movement\|Camera Movement]]**
+- Static Shot
+- Pan
+	- Slow Pan
+	- Rapid Pan (Whip Pan)
+- Tilt
+- Push In
+- Pull Out
+- Zoom
+	- Fast Zoom (Crash Zoom)
+	- Dolly Zoom (Vertigo Effect)
+- Camera Roll
+- Tracking Shot
+- Trucking Shot
+- Arc Shot
+- Boom Shot
+- Random Movement (Camera Shake)
+- Incidental Zooms
+# **[[Materi Teknis/Camera Lenses\|Camera Lenses]]**
+- Prime Lenses
+- Zoom Lenses
+- Extreme Wide-Angle Lens (Fisheye Lenses)
+- Wide-Angle Lens
+- Standard Lens (Normal Lenses)
+- Telephoto Lens (Long Lenses)
+- Macro Lenses (Micro Lenses)
+- Tilt Shift Lens
+# **[[Materi Teknis/Frame Speed\|Frame Speed]]**
+- Gerakan Normal (24 fps)
+- Kecepatan Frame Lebih Tinggi (misalnya 48 fps atau 120 fps)
+- Gerakan Cepat (Low Frame Rates/Under cranking)
+	- Step Printing
+- Gerakan Lambat (High Frame Rates/Overcranking)
+	- Speed Ramps
+# [[Materi Teknis/Transition Type\|Transition Type]]
+- Fade
+	- Fade from Black
+	- Fade to Black/White
+	- Dip to Black
+- Dissolve
+- Match Cut
+	- Benda
+	- Komposisi
+	- Warna
+	- Gerakan
+	- Suara
+	- Match Dissolve
+- Iris
+- Wipe
+- Passing
+- Whip Pan
+- Smash Cut
+- J-Cut/L-Cut
+# **[[Materi Teknis/Editing Technique\|Editing Technique]]**
+- Cutaway
+- Eyeline Match
+	- POV (Point of View) shot
+- Shot Reverse Shot
+- Insert
+- Cross-cutting
+- Eye Trace
+- Split Edits
+	- J-cut
+	- L-cut
+- Intellectual Montage
+	- Efek Kuleshov
+- Cut on Action
+		- Cut on impact
+# **[[Materi Teknis/Film Compositions\|Film Compositions]]**
+- Points
+	- Rule of Thirds
+	- Golden Triangle
+- Lines
+	- Leading Lines
+- Shapes
+	- Frames within Frames
+- Textures and Patterns
+- Space
+	- Positive Space
+	- Negative Space
+	- Headroom
+	- Lead Room
+	- Filling the Frame
+	- Simplified Frame
+- Depth
+	- Foreground
+	- Middle Ground
+	- Background
+	- Shallow Focus
+	- Deep Focus
+- Balance
+	- Rule of Odds
+	- Golden Ratio/Spiral
+	- Simetri
+- Angle
+	- High angle
+	- Low angle
+	- Overhead angle
+	- Dutch angle
+- Color and Tone
+	- Skema warna (Monokromatik, Analog, Komplementer, Triadik)
+	- Kecerahan/Kontras
+# **[[Materi Teknis/Lighting Technique\|Lighting Technique]]**
+- Cahaya Alami
+	- Sinar matahari
+	- Cahaya bulan
+	- Cahaya api
+- Cahaya Buatan
+	- Pencahayaan Ambient
+	- Pencahayaan Praktis
+	- Pencahayaan Termotivasi
+	- High Key Lighting
+	- Low-Key Lighting
+	- Chiaroscuro
+	- Hard Light
+	- Soft Light
+	- Dumb Side (Broadside)
+	- Smart Side (Short Side)
+	- Lens Flare

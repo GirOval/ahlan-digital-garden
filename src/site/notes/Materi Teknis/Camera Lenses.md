@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/materi-teknis/camera-lenses/","created":"2025-10-13T03:02:52.780-07:00","updated":"2025-10-15T02:01:40.000-07:00"}
+---
+
+Untuk penjelasan, harus lihat ini [Ultimate Guide to Camera Lenses](https://youtu.be/uSsIqR3DuK8?si=kX6VvWRBwuDQSJmT)
+- Prime Lenses (Fixed focal lenght)
+- Zoom Lenses (customizable focal lenght)
+- Extreme Wide-Angle Lens (Fisheye Lenses)
+![image-33.png](/img/user/Materi%20Teknis/attachments/image-33.png)![image-34.png](/img/user/Materi%20Teknis/attachments/image-34.png)
+- Wide-Angle Lens
+![image-35.png](/img/user/Materi%20Teknis/attachments/image-35.png)
+- Standard Lens (Normal Lenses)
+![image-36.png](/img/user/Materi%20Teknis/attachments/image-36.png)
+- Telephoto Lens (Long Lenses)
+![image-37.png](/img/user/Materi%20Teknis/attachments/image-37.png)
+- Macro Lenses (Micro Lenses)
+  Kemampuannya untuk mendapatkan ketajaman yang ekstrim dengan posisi yang sangat dekat 
+- Tilt Shift Lens
+![image-38.png](/img/user/Materi%20Teknis/attachments/image-38.png)
