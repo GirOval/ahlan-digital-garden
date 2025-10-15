@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/materi-teknis/camera-gear/","created":"2025-10-13T03:02:52.760-07:00","updated":"2025-10-15T02:15:26.000-07:00"}
+---
+
+Diambil dari video [Every Type of Camera Rig Explained](https://youtu.be/heJ9hWNb10g?si=Y2a1oZOLa3oGky8y)
+- Handheld
+![image-21.png](/img/user/Materi%20Teknis/attachments/image-21.png)
+- Tripod
+![image-22.png](/img/user/Materi%20Teknis/attachments/image-22.png)
+- Pedestal
+![image-23.png](/img/user/Materi%20Teknis/attachments/image-23.png)
+- Crane & Jib
+![image-24.png](/img/user/Materi%20Teknis/attachments/image-24.png)
+- Overhead Rigs
+![image-25.png](/img/user/Materi%20Teknis/attachments/image-25.png)
+- Dolly, Slider, & Cable Cam
+![image-26.png](/img/user/Materi%20Teknis/attachments/image-26.png)
+- Stabilizer
+	- Steadycam
+	![image-27.png](/img/user/Materi%20Teknis/attachments/image-27.png)
+	- Gimbal
+- Snorricam (Chestcam)
+![image-28.png](/img/user/Materi%20Teknis/attachments/image-28.png)
+- Vehicle Mounts
+![image-29.png](/img/user/Materi%20Teknis/attachments/image-29.png)
+- Drone
+![image-30.png](/img/user/Materi%20Teknis/attachments/image-30.png)
+- Motion Control
+![image-31.png](/img/user/Materi%20Teknis/attachments/image-31.png)
+- Underwater Housing
+![image-32.png](/img/user/Materi%20Teknis/attachments/image-32.png)
