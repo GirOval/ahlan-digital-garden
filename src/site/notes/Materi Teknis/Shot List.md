@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/shot-list/","created":"2025-10-13T03:02:53.050-07:00","updated":"2025-10-15T02:00:42.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/shot-list/","noteIcon":"","created":"2025-10-16T12:25:22.753+07:00","updated":"2025-10-15T16:00:42.000+07:00"}
 ---
 
 Materi ini diambil dari Playlist StudioBinder  [Shot List](https://youtube.com/playlist?list=PLEzQZpmbzckV0_a2QCO2qF9Yfe-LKSDha&si=Ujo1XcvfgHAa1Sox)

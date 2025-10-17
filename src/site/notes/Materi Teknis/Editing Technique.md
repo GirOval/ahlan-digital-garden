@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/editing-technique/","created":"2025-10-13T03:02:52.830-07:00","updated":"2025-10-15T02:03:30.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/editing-technique/","noteIcon":"","created":"2025-10-16T12:25:22.722+07:00","updated":"2025-10-15T16:03:30.000+07:00"}
 ---
 
 

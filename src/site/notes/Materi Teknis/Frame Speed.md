@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/frame-speed/","created":"2025-10-13T03:02:52.900-07:00","updated":"2025-10-15T02:01:46.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/frame-speed/","noteIcon":"","created":"2025-10-16T12:25:22.737+07:00","updated":"2025-10-15T16:01:46.000+07:00"}
 ---
 
 

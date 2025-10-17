@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-16T12:25:21.503+07:00","updated":"2025-10-15T15:42:36.000+07:00"}
 ---
 
 Jadi, ini awal perencanaan edukasiku. Aku bikin ini agar ada jejak yang membekas, **Kenapa ?**

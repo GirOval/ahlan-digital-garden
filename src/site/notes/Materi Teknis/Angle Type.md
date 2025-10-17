@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/angle-type/","created":"2025-10-13T03:02:52.730-07:00","updated":"2025-10-15T02:01:10.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/angle-type/","noteIcon":"","created":"2025-10-16T12:25:22.706+07:00","updated":"2025-10-15T16:01:10.000+07:00"}
 ---
 
 Diambil dari video [Every Camera Shot Explained](https://youtu.be/wLfZL9PZI9k?si=s2Q3jvsvZYKlgzdc)

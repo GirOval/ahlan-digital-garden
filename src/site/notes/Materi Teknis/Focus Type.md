@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/focus-type/","created":"2025-10-13T03:02:52.870-07:00","updated":"2025-10-15T02:01:18.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/focus-type/","noteIcon":"","created":"2025-10-16T12:25:22.722+07:00","updated":"2025-10-17T16:33:58.998+07:00"}
 ---
 
 Diambil dari video [Ultimate Guide to Camera Focus](https://youtu.be/ZGNUqNFfD8M?si=0DOO5xbe0ePZzcF_)
@@ -29,12 +29,14 @@ Diambil dari video [Ultimate Guide to Camera Focus](https://youtu.be/ZGNUqNFfD8M
 - Rack Focus (Istilah perpindahan fokus dalam satu shot)
 ![image-11.png](/img/user/Materi%20Teknis/attachments/image-11.png)
 ![image-12.png](/img/user/Materi%20Teknis/attachments/image-12.png)
-![[road-to-perdition-rack-shot.mp4]]
-	*Movie: Road To Perdition (2002) Director: Sam Mendes Director of Photography: Conrad Hall Bye* 
+![[road-to-perdition-rack-shot.mp4]]<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/Uu9RDDZA#QtGB2oOM_pQcYS2tophMVmLKgDoXfbNJ9CTWoXRtbNk" allowfullscreen ></iframe>
+
+*Movie: Road To Perdition (2002) Director: Sam Mendes Director of Photography: Conrad Hall Bye* 
 - Split Diopter Shot
 ![image-13.png](/img/user/Materi%20Teknis/attachments/image-13.png)
 ![the-hateful-eight-2015-201-7384.jpg|Movie: The Hateful Eight (2015) Director: Quentin Tarantino Director of Photography: Robert Richardson Bye Aspect Ratio: 276:1 Camera: Arriflex 765, Panavision Panaflex System 65 Studio](/img/user/Materi%20Teknis/attachments/the-hateful-eight-2015-201-7384.jpg)
 - Tilt Shift Lens (Swing Shift)
 ![image-14.png](/img/user/Materi%20Teknis/attachments/image-14.png)
-![[tilt-shift-shot.mp4]]
+![[tilt-shift-shot.mp4]]<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/pmNVHAyK#ONsmwyn5uWF4g0kiQT5L2Dre1ojOA2UE3kuoiqeZkB0" allowfullscreen ></iframe>
+
 	*Short Film: The City of Samba Creator: Keith Loutit Movie: The Social Network Movie: The Social Network (2010) Director: David Fincher Director of Photography: Jeff Cronenweth Bye*

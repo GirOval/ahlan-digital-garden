@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/framing/","created":"2025-10-13T03:02:52.920-07:00","updated":"2025-10-15T02:01:00.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/framing/","noteIcon":"","created":"2025-10-16T12:25:22.737+07:00","updated":"2025-10-15T16:01:00.000+07:00"}
 ---
 
 Diambil dari video [Shot Composition & Cinematography Techniques Explained](https://youtu.be/qQNiqzuXjoM?si=5YYO-FlMlYWWh0Zm)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/fundamental-shot/","created":"2025-10-13T03:02:53.000-07:00","updated":"2025-10-15T02:00:50.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/fundamental-shot/","noteIcon":"","created":"2025-10-16T12:25:22.737+07:00","updated":"2025-10-15T16:00:50.000+07:00"}
 ---
 
 Diambil dari video [Every Shot Size Explained](https://youtu.be/AyML8xuKfoc?si=RxWfn_SKFy5l3Fx5)

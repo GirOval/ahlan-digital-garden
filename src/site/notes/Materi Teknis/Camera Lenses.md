@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/camera-lenses/","created":"2025-10-13T03:02:52.780-07:00","updated":"2025-10-15T02:01:40.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/camera-lenses/","noteIcon":"","created":"2025-10-16T12:25:22.706+07:00","updated":"2025-10-15T16:01:40.000+07:00"}
 ---
 
 Untuk penjelasan, harus lihat ini [Ultimate Guide to Camera Lenses](https://youtu.be/uSsIqR3DuK8?si=kX6VvWRBwuDQSJmT)

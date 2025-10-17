@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/lighting-technique/","created":"2025-10-13T03:02:53.020-07:00","updated":"2025-10-15T02:03:44.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/lighting-technique/","noteIcon":"","created":"2025-10-16T12:25:22.737+07:00","updated":"2025-10-15T16:03:44.000+07:00"}
 ---
 
 

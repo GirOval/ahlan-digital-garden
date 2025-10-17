@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/camera-gear/","created":"2025-10-13T03:02:52.760-07:00","updated":"2025-10-15T02:15:26.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/camera-gear/","noteIcon":"","created":"2025-10-16T12:25:22.706+07:00","updated":"2025-10-15T16:15:26.000+07:00"}
 ---
 
 Diambil dari video [Every Type of Camera Rig Explained](https://youtu.be/heJ9hWNb10g?si=Y2a1oZOLa3oGky8y)
