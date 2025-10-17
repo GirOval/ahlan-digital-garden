@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/materi-teknis/camera-movement/","created":"2025-10-13T03:02:52.800-07:00","updated":"2025-10-15T02:01:32.000-07:00"}
+{"dg-publish":true,"permalink":"/materi-teknis/camera-movement/","noteIcon":"","created":"2025-10-16T12:25:22.722+07:00","updated":"2025-10-17T16:17:39.339+07:00"}
 ---
 
 Diambil dari video [Every Camera Movement Technique Explained](https://youtu.be/IiyBo-qLDeM?si=EmudF7BSx-XwwiSp)
 - Static Shot (Yaa.. posisinya sama aja)
 ![[dunkirk-static-shot.mp4]]
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/w2kHkazI#Kn8-TiVvZIPjuVKyPmlNBriUPQz71AZHHq0TFb1N2XA" allowfullscreen ></iframe>
+
 - Pan
     - Slow Pan
 	![image-17.png](/img/user/Materi%20Teknis/attachments/image-17.png)
