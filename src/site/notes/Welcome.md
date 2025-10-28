@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-22T05:11:30.752+07:00","updated":"2025-10-18T13:16:28.000+07:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-21T17:06:30.880+07:00","updated":"2025-10-18T13:16:28.000+07:00"}
 ---
 
 # Kata Pengantar
