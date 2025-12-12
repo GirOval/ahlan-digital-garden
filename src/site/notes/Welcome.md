@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-10-18T13:16:28.000+07:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-12-07T07:18:01.903+07:00"}
 ---
 
 # Kata Pengantar
@@ -36,3 +36,4 @@ Di sini, kalian akan disuguhkan materi-materi dasar yang berhubungan dengan
 	- [[Materi Teknis/13. Lighting Technique\|13. Lighting Technique]]
 - Standar Dasar(yang berhubungan dengan organisasi)
 - Kaidah Umum(yang berhubungan dengan kehidupan).
+- [[Referensi/0. Referensi\|0. Referensi]]
